@@ -1,2 +1,5 @@
 # TSD-Transporte
-Erstes Web-Projekt für eine Kurier-Firma
+
+**Erstes** Web-Projekt.
+
+Eine informative Webseite für das unternehmen eines Familienmitgliedes.
